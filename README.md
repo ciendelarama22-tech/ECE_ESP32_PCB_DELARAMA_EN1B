@@ -1,4 +1,4 @@
-# ESP32 Expansion Board 🚀
+# ESP32 Expansion Board
 
 This is a compact and efficient breakout board designed to unlock the full potential of the ESP32 DevKit V1. I built everything using **EasyEDA**—from the initial circuit schematic to the final PCB layout and 3D mockup.
 
