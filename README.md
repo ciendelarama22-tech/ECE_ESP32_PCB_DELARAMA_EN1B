@@ -38,7 +38,7 @@ This is a compact and efficient breakout board designed to unlock the full poten
 ---
 
 ## 👤 About Me
-* *Name** Francie Dela Rama
+* **Name** Francie Dela Rama
 * **Major:** Electronic Engineering (Section EN1B)
 * **Email:** delaramafrancie1@gmail.com
 * **Github** ciendelarama22-tech
