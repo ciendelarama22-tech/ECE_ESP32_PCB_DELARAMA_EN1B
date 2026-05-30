@@ -41,5 +41,5 @@ This is a compact and efficient breakout board designed to unlock the full poten
 * *Name** Francie Dela Rama
 * **Major:** Electronic Engineering (Section EN1B)
 * **Email:** delaramafrancie1@gmail.com
-* **Github** ciendelarama22. tech
+* **Github** ciendelarama22-tech
 # ECE_ESP32_PCB_DELARAMA_EN1B
