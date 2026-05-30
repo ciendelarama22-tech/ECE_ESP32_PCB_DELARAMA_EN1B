@@ -43,3 +43,7 @@ This is a compact and efficient breakout board designed to unlock the full poten
 * **Email:** delaramafrancie1@gmail.com
 * **Github** ciendelarama22-tech
 # ECE_ESP32_PCB_DELARAMA_EN1B
+
+https://easyeda.com/editor#project_id=7c116f3c8ab8418a864cf003ddfae966
+
+https://oshwlab.com/franzien/project_zxkojwnv
